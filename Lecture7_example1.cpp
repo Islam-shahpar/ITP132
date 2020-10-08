@@ -1,5 +1,5 @@
 /**
-Lecture 6 :          Selection Structure
+Lecture 7 :          Repeatation Structure
 Example :            Example - 1 
 Problem Statement :  Find out the daily price of a car under certain conditions
                      i) Car type = Standard, Member = Yes, Price = 55 
