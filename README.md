@@ -21,10 +21,6 @@ Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 
 [![Run on Repl.it](https://repl.it/badge/github/Islam-shahpar/ITP132)](https://repl.it/github/Islam-shahpar/ITP132)<br/>
 
-
-<<<<<<< HEAD
-
-=======
 1. <a href="https://catalog.nvcc.edu/preview_course_nopop.php?catoid=6&coid=9562" target="_blank"> Course description : NVCC ITP132 </a> <br/>
 2. <a href="https://www.w3schools.com/cpp/" target="_blank"> w3Schools </a> <br/>
 3. <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> Geekforgeeks </a> <br/>
@@ -33,4 +29,4 @@ Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 Practice Problem : <br/>
 
 1. <a href="https://www.w3resource.com/cpp-exercises/" target="_blank"> w3resource C++ Problems </a>
->>>>>>> 1e16923ba8a786cbce80fee286554fac48fffdb6
+
