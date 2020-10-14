@@ -2,7 +2,7 @@
 
 Hi this is Shahpar Islam. Your instructor for ITP132 : C++ Programming I
 
-In this particular repository, I will post codes and necessary instructions by lectures.<br/>
+In this particular repository, I will post codes and necessary instructions for lectures.<br/>
 Please follow the below list to find the codes for the lectures:<br/>
 
 Lecture 1 : Basic Skeleton<br/> 
