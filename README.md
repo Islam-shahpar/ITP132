@@ -20,6 +20,11 @@ Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 - For short tutorials please navigate to "tutorial" folder<br/>
 
 [![Run on Repl.it](https://repl.it/badge/github/Islam-shahpar/ITP132)](https://repl.it/github/Islam-shahpar/ITP132)<br/>
+To change the run command inside of replit:
+- Click on "Run on Repl.it" 
+- After the file got open on Repl.it, click on ".replit" file
+- edit file name in run = "g++ codes/<p style=color:#FF0000;>file_name.cpp</p> -o myfile && ./myFile"
+- Click on run button at top
 
 Resource : <br/>
 
