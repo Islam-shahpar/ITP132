@@ -23,7 +23,7 @@ Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 To change the run command inside of replit:
 - Click on "Run on Repl.it" 
 - After the file got open on Repl.it, click on ".replit" file
-- edit file name in run = "g++ codes/<bold>file_name.cpp</bold> -o myfile && ./myFile"
+- Edit file name in run = "g++ codes/**file_name.cpp** -o myfile && ./myFile"
 - Click on run button at top
 
 Resource : <br/>
