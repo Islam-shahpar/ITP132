@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ Lecture7_example1.cpp -o myfile && ./myfile"
+run = "g++ codes/L7_E1.cpp -o myfile && ./myfile"
