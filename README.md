@@ -40,4 +40,4 @@ Practice Problem : <br/>
 3. <a href="https://leetcode.com/problemset/all/" target="_blank"> leetcode Problems </a>
 4. <a href="https://projecteuler.net/archives" target="_blank"> Project Euler </a>
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
