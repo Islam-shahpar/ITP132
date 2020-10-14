@@ -27,3 +27,7 @@ Resource : <br/>
 2. w3Schools (https://www.w3schools.com/cpp/)<br/>
 3. Geekforgeeks (https://www.geeksforgeeks.org/c-plus-plus/)<br/>
 4. Cengage C++ (https://www.cengage.com/c/an-introduction-to-programming-with-c-8e-zak/9781285860114PF/)<br/>
+
+Practice Problem : <br/>
+
+1. <a href="https://www.w3resource.com/cpp-exercises/"> w3resource C++ Problems </a>
