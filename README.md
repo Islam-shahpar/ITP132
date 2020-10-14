@@ -23,7 +23,7 @@ Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 To change the run command inside of replit:
 - Click on "Run on Repl.it" 
 - After the file got open on Repl.it, click on ".replit" file
-- edit file name in run = "g++ codes/<span style=color:#FF0000;>file_name.cpp</span> -o myfile && ./myFile"
+- edit file name in run = "g++ codes/<bold>file_name.cpp</bold> -o myfile && ./myFile"
 - Click on run button at top
 
 Resource : <br/>
@@ -39,5 +39,3 @@ Practice Problem : <br/>
 2. <a href="https://www.hackerrank.com/domains/cpp" target="_blank"> hackerrank C++ </a>
 3. <a href="https://leetcode.com/problemset/all/" target="_blank"> leetcode Problems </a>
 4. <a href="https://projecteuler.net/archives" target="_blank"> Project Euler </a>
-
-![#f03c15] 
