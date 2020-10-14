@@ -23,11 +23,11 @@ Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 
 Resource : <br/>
 
-1. Course description : NVCC ITP132 (https://catalog.nvcc.edu/preview_course_nopop.php?catoid=6&coid=9562)<br/>
-2. w3Schools (https://www.w3schools.com/cpp/)<br/>
-3. Geekforgeeks (https://www.geeksforgeeks.org/c-plus-plus/)<br/>
-4. Cengage C++ (https://www.cengage.com/c/an-introduction-to-programming-with-c-8e-zak/9781285860114PF/)<br/>
+1. <a href="https://catalog.nvcc.edu/preview_course_nopop.php?catoid=6&coid=9562" target="_blank"> Course description : NVCC ITP132 </a> <br/>
+2. <a href="https://www.w3schools.com/cpp/" target="_blank"> w3Schools </a> <br/>
+3. <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> Geekforgeeks </a> <br/>
+4. <a href="https://www.cengage.com/c/an-introduction-to-programming-with-c-8e-zak/9781285860114PF/" target="_blank"> Cengage C++ </a> <br/>
 
 Practice Problem : <br/>
 
-1. <a href="https://www.w3resource.com/cpp-exercises/"> w3resource C++ Problems </a>
+1. <a href="https://www.w3resource.com/cpp-exercises/" target="_blank"> w3resource C++ Problems </a>
