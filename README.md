@@ -56,6 +56,10 @@ To change the run command inside of replit:
 3. <a href="https://www.amazon.com/dp/0321563840?tag=hackr-20" target="_blank"> The C++ Programming Language </a> <br/>
 4. <a href="https://www.amazon.com/dp/020170353X?tag=hackr-20" target="_blank"> Accelerated C++: Practical Programming by Example </a> <br/>
 
+*Read C++ Compiler Error :*
+
+1. <a href="https://www.sjbaker.org/wiki/index.php?title=A_Short_Guide_to_understanding_C%2B%2B_compiler_errors" target="_blank"> Understand C++ Compiler Error  </a> <br/>
+
 *C++ Cheatsheets :*
 
 1. <a href="http://www.cheat-sheets.org/#CPP" target="_blank"> cheat-sheet.org : C++  </a> <br/>
@@ -69,4 +73,5 @@ To change the run command inside of replit:
 *Miscellaneous :*
 
 1. <a href="https://computerhistory.org/" target="_blank"> Computer History Museum  </a> <br/>
+
 
