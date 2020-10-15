@@ -29,8 +29,8 @@ To change the run command inside of replit:
 Resource : <br/>
 
 1. <a href="https://catalog.nvcc.edu/preview_course_nopop.php?catoid=6&coid=9562" target="_blank"> Course description : NVCC ITP132 </a> <br/>
-2. <a href="https://www.w3schools.com/cpp/" target="_blank"> w3Schools </a> <br/>
-3. <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> Geekforgeeks </a> <br/>
+2. <a href="https://www.w3schools.com/cpp/" target="_blank"> w3Schools C++ </a> <br/>
+3. <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> Geeksforgeeks C++ </a> <br/>
 4. <a href="https://www.cengage.com/c/an-introduction-to-programming-with-c-8e-zak/9781285860114PF/" target="_blank"> Cengage C++ </a> <br/>
 
 Practice Problem : <br/>
