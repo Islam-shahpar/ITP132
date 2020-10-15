@@ -2,7 +2,7 @@
 
 function remove_file() {
     for ((i=1; i<= $2; i++)); do
-        rm -rf ../codes/L$1\_E$i.cpp
+        rm -rf ../student_codes/L$1\_E$i.cpp
     done    
 }
 

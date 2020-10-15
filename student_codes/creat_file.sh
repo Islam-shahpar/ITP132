@@ -2,7 +2,7 @@
 
 function create_file(){
     for ((i = 1; i <= $2; i++)); do
-        cp ../codes/L_Skeleton.cpp ../codes/L$1\_E$i.cpp
+        cp ../codes/L_Skeleton.cpp ../student_codes/L$1\_E$i.cpp
     done
 }
 
