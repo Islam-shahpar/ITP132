@@ -5,14 +5,14 @@ Hi this is Shahpar Islam. Your instructor for ITP132 : C++ Programming I
 In this particular repository, I will post codes and necessary instructions for lectures.<br/>
 Please follow the below list to find the codes for the lectures:<br/>
 
-Lecture 1 : Basic C++<br/> 
-Lecture 2 : Input| Output| Comment<br/>
-Lecture 3 : Variable| Data types<br/>
-Lecture 4 : Math| Output Manipulation<br/>
-Lecture 5 : Oprators| Selection Structure<br/>
-Lecture 6 : Selection Structure (if| if-else| else if| switch| nested if)<br/>
-Lecture 7 : Repeatation Structure (while| do-while| for)<br/>
-Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
+<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L1_E1.cpp" target="_blank"> Lecture 1 : Basic C++ </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L2_E1.cpp" target="_blank"> Lecture 2 : Input| Output| Comment </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L3_E1.cpp" target="_blank"> Lecture 3 : Variable| Data types </a> <br/>
+<a href="" target="_blank"> Lecture 4 : Math| Output Manipulation </a> <br/>
+<a href="" target="_blank"> Lecture 5 : Oprators| Selection Structure </a> <br/>
+<a href="" target="_blank"> Lecture 6 : Selection Structure (if| if-else| else if| switch| nested if) </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L7_E1.cpp" target="_blank"> Lecture 7 : Repeatation Structure (while| do-while| for) </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L8_E1.cpp" target="_blank"> Lecture 8 : Nested Repeatation Structure (nested for loop) </a> <br/>
 
 - For C++ codes please navigate to "codes" folder<br/>
   (Name format of the code file is L1_E1.cpp {Which means Lecture 1 Example 1})<br/>
@@ -60,3 +60,5 @@ C++ Cheatsheets :
 
 1. <a href="http://www.cheat-sheets.org/#CPP" target="_blank"> cheat-sheet.org : C++  </a> <br/>
 2. <a href="https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md" target="_blank"> C++ : DS and Algorithm Cheat Sheet </a>
+
+
