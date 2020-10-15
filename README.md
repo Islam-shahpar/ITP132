@@ -6,12 +6,12 @@ In this particular repository, I will post codes and necessary instructions for 
 Please follow the below list to find the codes for the lectures:<br/>
 
 Lecture 1 : Basic C++<br/> 
-Lecture 2 : Input|Output|Comment<br/>
-Lecture 3 : Variable|Data types<br/>
-Lecture 4 : Math|Output Manipulation<br/>
+Lecture 2 : Input| Output| Comment<br/>
+Lecture 3 : Variable| Data types<br/>
+Lecture 4 : Math| Output Manipulation<br/>
 Lecture 5 : Oprators| Selection Structure<br/>
-Lecture 6 : Selection Structure (if|if-else|else if|switch|nested if)<br/>
-Lecture 7 : Repeatation Structure (while / do-while / for)<br/>
+Lecture 6 : Selection Structure (if| if-else| else if| switch| nested if)<br/>
+Lecture 7 : Repeatation Structure (while| do-while| for)<br/>
 Lecture 8 : Nested Repeatation Structure (nested for loop)<br/>
 
 - For C++ codes please navigate to "codes" folder<br/>
