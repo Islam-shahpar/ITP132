@@ -61,4 +61,9 @@ To change the run command inside of replit:
 1. <a href="http://www.cheat-sheets.org/#CPP" target="_blank"> cheat-sheet.org : C++  </a> <br/>
 2. <a href="https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md" target="_blank"> C++ : DS and Algorithm Cheat Sheet </a>
 
+*Searching Techniques :*
+
+1. <a href="https://support.google.com/websearch/answer/2466433?hl=en" target="_blank"> Refine Google Search  </a> <br/>
+2. <a href="https://stackoverflow.com/help/searching"> Stackoverflow Searching Techinque </a>
+
 
