@@ -66,4 +66,7 @@ To change the run command inside of replit:
 1. <a href="https://support.google.com/websearch/answer/2466433?hl=en" target="_blank"> Refine Google Search  </a> <br/>
 2. <a href="https://stackoverflow.com/help/searching"> Stackoverflow Searching Techinque </a>
 
+*Miscellaneous :*
+
+1. <a href="https://computerhistory.org/" target="_blank"> Computer History Museum  </a> <br/>
 
