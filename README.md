@@ -72,6 +72,6 @@ To change the run command inside of replit:
 
 *Miscellaneous :*
 
-1. <a href="https://computerhistory.org/" target="_blank"> Computer History Museum  </a> <br/>
+1. <a href="https://www.computerhistory.org/timeline//" target="_blank"> Computer History Museum  </a> <br/>
 
 
