@@ -1,0 +1,8 @@
+1. Project Manager
+    2. Lead Developer
+        3. Front-end (UI/UX)
+        4. Back-end (Servers | Database)
+        5. Tester
+    6. Content Developer
+        7. Images | Videos | Blogs 
+    8. Graphics Design (Logo | Animations)    

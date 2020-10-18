@@ -15,4 +15,7 @@ read exercise_number
 create_file $lecture_number $exercise_number
 
 
+#create a file -> touch file_name.ext
+#create loop -> to create multiple files at a time
+
 
