@@ -18,7 +18,7 @@
 using namespace std;
 
 int generateRandom(){
-    srand(time(NULL));//use srand to generate a different value everytime the program run
+    srand(time(NULL));//use srand to generate a different value everytime the program runs
     return rand() % 12 + 1;//http://www.cplusplus.com/reference/cstdlib/rand/
 }
 
