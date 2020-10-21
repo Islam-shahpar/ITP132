@@ -7,8 +7,8 @@
 */
 
 /*
-* Step 1 : Write a function that add random number
-* Step 2 : Check it with user input and print if number is lower | higher
+* Step 1 : Write a function that generates a random number
+* Step 2 : Check it with user input and print if the number is lower | higher
 * Step 3 : Keep repeating the process until the number matches
 */
 
@@ -18,15 +18,14 @@
 using namespace std;
 
 int generateRandom(){
-    srand(time(NULL));
-    return rand() % 12 + 1;
-    //http://www.cplusplus.com/reference/cstdlib/rand/
+    srand(time(NULL));//use srand to generate a different value everytime the program run
+    return rand() % 12 + 1;//http://www.cplusplus.com/reference/cstdlib/rand/
 }
 
 int main(){
     int randomNumber = generateRandom();
     int guessNumber = 0;
-    int tryCount = 1; 
+    int tryCount = 1; //Start the try count from 1 not 0
 
     do {
         cout << "What is your guess? [From 1 to 12]" << endl;
