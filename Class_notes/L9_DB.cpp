@@ -45,51 +45,52 @@ void learnArray(){
 
 }
 
-// void arraySort(int toBeSortedArray[10]){
-//     int len = sizeof(toBeSortedArray)/sizeof(toBeSortedArray[0]);
-//     for(int i = 0; i < (len - 1); i++){
-//         for(int j =1; j < len ; j++){
-//             if(toBeSortedArray[i] < toBeSortedArray[j]){
-//                 continue;
-//             }else{
-//                 int temp = toBeSortedArray[i];
-//                 toBeSortedArray[i] = toBeSortedArray[j];
-//                 toBeSortedArray[j] = temp;
-//             }
-//         }
-//     }
-// }
+void swap(int *xp, int *yp)  
+{  
+    int temp = *xp;  
+    *xp = *yp;  
+    *yp = temp;  
+}  
+  
+void selectionSort(int arr[], int n)  
+{  
+    int i, j, min_idx;  
+  
+    // One by one move boundary of unsorted subarray  
+    for (i = 0; i < n-1; i++)  
+    {  
+        // Find the minimum element in unsorted array  
+        min_idx = i;  
+        for (j = i+1; j < n; j++)  
+        if (arr[j] < arr[min_idx])  
+            min_idx = j;  
+  
+        // Swap the found minimum element with the first element  
+        swap(&arr[min_idx], &arr[i]);  
+    }  
+}  
+
+//https://www.geeksforgeeks.org/selection-sort/
 
 int main(){
     //hypotenuse();
     //learnArray();
-    int arrayToBeSorted[10];
+    int arrayToBeSorted[5];
     cout << "Please input random number in array : " << endl;
-    for(int i = 0; i < 10; i++){
+    for(int i = 0; i < 5; i++){
         cin >> arrayToBeSorted[i];
     }
     cout << "Unsorted Array looks like this : " << endl;
-    for(int i = 0; i < 10; i++){
+    for(int i = 0; i < 5; i++){
         cout << arrayToBeSorted[i] << " ";
     }
     cout << endl;
-    //arraySort(arrayToBeSorted);
-    int min_index = 0;
     int len = sizeof(arrayToBeSorted)/sizeof(arrayToBeSorted[0]);
-    for(int i = 0; i < (len - 1); i++){
-        min_index = i;
-        for(int j = i+1; j < len ; j++){
-            if(arrayToBeSorted[j] < arrayToBeSorted[min_index]){
-                min_index = j;
-                int temp = arrayToBeSorted[min_index];
-                arrayToBeSorted[min_index] = arrayToBeSorted[i];
-                arrayToBeSorted[i] = temp;
-            }
-        }
-    }
+    selectionSort(arrayToBeSorted, len);
+    
 
     cout << "Sorted Array looks like this : " << endl;
-    for(int i = 0; i < 10; i++){
+    for(int i = 0; i < 5; i++){
         cout << arrayToBeSorted[i] << " ";
     }
     cout << endl;
