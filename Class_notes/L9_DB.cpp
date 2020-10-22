@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include <cmath>
+#include <string>
 using namespace std;
 
 void hypotenuse(){
@@ -23,7 +24,27 @@ void hypotenuse(){
     cout << "Hypotenuse for the Right traingle is: " << hypotenuse << endl;
 }
 
+void learnArray(){
+    int nums[5]; //declare an array
+    nums[0] = 0; //insert an element
+
+    for (int i = 1; i < 5; i++){
+        nums[i] = i; //loop through an array
+    }
+
+    int len = sizeof(nums)/sizeof(nums[0]);
+
+    for (int i = 0; i < len; i++){
+        cout << nums[i] << endl; //print the array
+    }
+
+    nums[0] = 9; //change the array element
+    cout << "After change numbers[0] is " << nums[0] << endl;
+
+}
+
 int main(){
-    hypotenuse();
+    //hypotenuse();
+    learnArray();
     return 0;
 }
