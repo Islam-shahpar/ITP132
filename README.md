@@ -13,6 +13,13 @@ Please follow the below list to find the codes for the lectures:<br/>
 <a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L6_E1.cpp" target="_blank"> Lecture 6 : Selection Structure (if| if-else| else if| switch| nested if) </a> <br/>
 <a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L7_E1.cpp" target="_blank"> Lecture 7 : Repeatation Structure (while| do-while| for) </a> <br/>
 <a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L8_E1.cpp" target="_blank"> Lecture 8 : Nested Repeatation Structure (nested for loop) </a> <br/>
+<a href="" target="_blank"> Lecture 9 : Functions Basic </a> <br/>
+<a href="" target="_blank"> Lecture 10 : Functions Advanced </a> <br/>
+<a href="" target="_blank"> Lecture 11 : Array Basic </a> <br/>
+<a href="" target="_blank"> Lecture 12 : Array Advanced </a> <br/>
+<a href="" target="_blank"> Lecture 13 : Strings </a> <br/>
+<a href="" target="_blank"> Lecture 14 : Working with files </a> <br/>
+<a href="" target="_blank"> Lecture 15 : C++ : OOP </a> <br/>
 
 - For C++ codes please navigate to "codes" folder<br/>
   (Name format of the code file is L1_E1.cpp {Which means Lecture 1 Example 1})<br/>
