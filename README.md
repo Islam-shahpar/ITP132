@@ -10,10 +10,10 @@ Please follow the below list to find the codes for the lectures:<br/>
 <a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L3_E1.cpp" target="_blank"> Lecture 3 : Variable| Data types </a> <br/>
 <a href="https://github.com/Islam-shahpar/ITP132/tree/main/student_codes/L4" target="_blank"> Lecture 4 : Math| Output Manipulation </a> <br/>
 <a href="" target="_blank"> Lecture 5 : Operators| Selection Structure </a> <br/>
-<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L6_E1.cpp" target="_blank"> Lecture 6 : Selection Structure (if| if-else| else if| switch| nested if) </a> <br/>
-<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L7_E1.cpp" target="_blank"> Lecture 7 : Repeatation Structure (while| do-while| for) </a> <br/>
-<a href="https://github.com/Islam-shahpar/ITP132/blob/main/codes/L8_E1.cpp" target="_blank"> Lecture 8 : Nested Repeatation Structure (nested for loop) </a> <br/>
-<a href="" target="_blank"> Lecture 9 : Functions Basic </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/tree/main/codes/L6" target="_blank"> Lecture 6 : Selection Structure (if| if-else| else if| switch| nested if) </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/tree/main/codes/L7" target="_blank"> Lecture 7 : Repeatation Structure (while| do-while| for) </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/tree/main/codes/L8" target="_blank"> Lecture 8 : Nested Repeatation Structure (nested for loop) </a> <br/>
+<a href="https://github.com/Islam-shahpar/ITP132/tree/main/codes/L9" target="_blank"> Lecture 9 : Functions Basic </a> <br/>
 <a href="" target="_blank"> Lecture 10 : Functions Advanced </a> <br/>
 <a href="" target="_blank"> Lecture 11 : Array Basic </a> <br/>
 <a href="" target="_blank"> Lecture 12 : Array Advanced </a> <br/>
