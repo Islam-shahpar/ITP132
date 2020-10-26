@@ -1,0 +1,83 @@
+Below are the problems related with Math| Output Manipulation
+
+1. Write a program in C++ to swap two numbers.
+
+2. Write a program in C++ to calculate the volume of a sphere.
+
+3. Write a program in C++ to calculate the volume of a cube.
+
+4. Write a program in C++ to calculate the volume of a cylinder.
+
+5. Write a program in C++ to find the Area and Perimeter of a Rectangle.
+
+6. Write a program in C++ to find the area and circumference of a circle.
+
+7. Write a program in C++ to convert temperature in Celsius to Fahrenheit.
+
+8. Write a program in C++ to convert temperature in Fahrenheit to Celsius.
+
+9. Write a program in C++ to find the third angle of a triangle.
+
+10. Write a program in C++ that converts kilometers per hour to miles per hour.
+
+11. Write a program in C++ to convert temperature in Kelvin to Fahrenheit.
+
+12. Write a program in C++ to compute quotient and remainder.
+
+--------------------------------------------------------------------------------
+
+Output Manipulation in C++ : 
+
+1. Write a  C++ program where you will manipulate the output using fixed() function. If the input is 6.11 then output should be 6.11000
+
+2. Write a  C++ program where you will manipulate the output using fixed() function. If the input is 2.13e7 then output should be 21300000.00000
+
+Use below link for help:
+
+https://www.geeksforgeeks.org/ios-manipulators-fixed-function-in-c/ (Links to an external site.)
+
+3. Write a  C++ program where you will manipulate the output using scientific() function. If the input is 3.21 then output should be 3.210003+00
+
+Use below link for help:
+
+https://www.geeksforgeeks.org/ios-manipulators-scientific-function-in-c/ (Links to an external site.)
+
+4. Write a  C++ program where you will manipulate the output using setprecision() function. If the input is 3.142857142857 then output should be (Don't forget to use the <iomanip> header) :
+
+    i) 3.14285
+
+   ii) 3.14
+
+   iii) 3.14285714285
+
+Use the below link for help:
+
+https://www.geeksforgeeks.org/iomanip-setprecision-function-in-c-with-examples/ (Links to an external site.)
+
+----------------------------------------------------------------------------------------------
+
+1. Please run below codes to find out the outputs:
+
+#include <iostream>
+#include <math.h>
+using namespace std;
+
+int main() {
+double number_1 = 3E-3;//to store 0.003
+cout << "Show number after decimal point:" << number_1 << endl;
+double number_2 = 3E3;//to
+cout << "Show number of zeroes:" << number_2 << endl;
+
+cout << sqrt(64) << "\n"; \\Square root of a number
+cout << round(2.6) << "\n";\\rounding a number with decimal point
+cout << log(2) << "\n";\\Getting the log value of a number
+}
+Based on the above example:
+- Create a C++ program, that takes 2 numbers as input.
+- include the <math.h> library in header.
+- Store the numbers in two variable "input_1" and "input_2"
+- Then add two numbers and store the result in another variable named "result"
+- result = input_1 + input_2
+- Find out the square root of the "result" variable and store it in "sqrt_result"
+- sqrt_result = sqrt(result);
+- Display the output.
