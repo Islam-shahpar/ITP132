@@ -63,14 +63,14 @@ https://www.geeksforgeeks.org/iomanip-setprecision-function-in-c-with-examples/ 
 using namespace std;
 
 int main() {
-double number_1 = 3E-3;//to store 0.003
+double number_1 = 3E-3; //to store 0.003
 cout << "Show number after decimal point:" << number_1 << endl;
-double number_2 = 3E3;//to
+double number_2 = 3E3; //to
 cout << "Show number of zeroes:" << number_2 << endl;
 
-cout << sqrt(64) << "\n"; \\Square root of a number
-cout << round(2.6) << "\n";\\rounding a number with decimal point
-cout << log(2) << "\n";\\Getting the log value of a number
+cout << sqrt(64) << "\n"; //Square root of a number
+cout << round(2.6) << "\n"; //rounding a number with decimal point
+cout << log(2) << "\n"; //Getting the log value of a number
 }
 Based on the above example:
 - Create a C++ program, that takes 2 numbers as input.
