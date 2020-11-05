@@ -9,6 +9,11 @@ Coder :              Shahpar Islam
 #include <iostream>
 using namespace std;
 
+void displayArray(int passedArray, int sizeOfArray){
+    for (int i = 0; i < sizeOfArray; i++){
+        cout << passedArray[i] << endl;
+    }
+}
 
 int main(){
   
@@ -27,6 +32,9 @@ int main(){
   for (int i = 0; i < 5; i++){
       cout << newArray[i] << endl;
   }
+
+  //pass array to function
+  displayArray(anotherArray,5);
   
   return 0;
 }
